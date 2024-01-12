@@ -1,0 +1,38 @@
+{
+"video": {
+"sites": [
+{"key": "douban","name": "猫丨豆瓣","type": 3,"api": "./bb_douban_open.js"}, 
+{"key": "cntv","name": "猫丨央视","type": 3,"api": "./cntv_open.js"},  
+
+{"key": "dsxys","name": "猫丨大师兄","type": 3,"api": "./dsxys_open.js"},
+{"key": "555","name": "猫丨五五五","type": 3,"api": "./555dy_open.js"},
+{"key": "yzys_yozo","name": "猫丨柚子","type": 3,"api": "./yzys_bytecode.js"}, 
+
+{"key": "wogg","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "3c6401650e374d2d917f3bfeda776eb8"},
+{"key": "pansou","name": "猫丨PanSearch(仅搜索)","type": 3,"api": "./pansearch_open.js","ext": "3c6401650e374d2d917f3bfeda776eb8"},
+{"key": "dovx","name": "猫｜七夜(仅搜索)","type": 3,"api": "./dovx_open.js","ext": "3c6401650e374d2d917f3bfeda776eb8"},
+{"key": "pansou_Dimsum","name": "猫｜盘搜(仅搜索)","type": 3,"api": "assets://js/pansou_open.js","ext": "3c6401650e374d2d917f3bfeda776eb8"},
+{"key": "xiaozhitiao_Dimsum","name": "猫｜小纸条(仅搜索)","type": 3,"api": "assets://js/xiaozhitiao_open.js","ext": "3c6401650e374d2d917f3bfeda776eb8"}
+]
+},
+
+"read": {
+"sites": [
+{"key": "dj0898","name": "猫丨爱DJ【🎧】","type": 3,"api": "./dj0898_book_open.js"}, 
+{"key": "zz123","name": "猫丨种子音乐【🎧】","type": 3,"api": "./zz123.js"}
+]
+},
+
+"pan": {
+"sites": [
+{
+"key": "alist",
+"name": "Alist",
+"type": 40,
+"api": "./alist_open.js",
+"ext": [
+]
+}
+]
+}
+}
