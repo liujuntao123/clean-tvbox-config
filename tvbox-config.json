@@ -1,0 +1,37 @@
+{
+"spider":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+"wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
+"sites":[
+{"key":"drpy_js_豆瓣","name":"🐼┃豆瓣","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
+{"key":"alist","name":"🍰┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://alist.xn--z7x900a.live/alist.json"},
+{"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/南瓜.js"},
+{"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Panda","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"http://dt.xn--yety82d.love/玩偶哥哥.json"},
+
+{"key":"csp_search_Panda_pansearch","name":"🚢┃盘搜┃网盘","type":3,"api":"csp_Panda","ext":{"数组":"flexflex-colitems-start&&</div></div><div","标题":"名称：&&描述：","副标题":"发布时间：&&</p>","图片":"<imgsrc=\"&&\"","链接":"href=\"&&\"","搜索url":"https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5","timeout":30,"changeable":0,"阿里token":""}},
+{"key":"csp_search_Panda_盘搜","name":"🚃┃盘搜┃网盘2","type":3,"api":"csp_Panda","ext":{"标题":"<span*>&&</div>","副标题":"时间:&&格式","图片":"thumb=\"&&\"","链接":"/cv/+href=\"/s/&&\"","搜索url":"https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5","timeout":30,"changeable":0,"阿里token":""}},
+{"key":"csp_search_Panda_找资源","name":"☠┃资源┃网盘","type":3,"api":"csp_Panda","ext":{"数组":"news_text&&</li>","标题":"<h3>&&</h3>","副标题":"时间：&&</p>","图片":"https://","链接":"/+href=\"&&\"","跳转数组":"</div>*<a&&</a>","跳转链接":"https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"","搜索url":"https://zhaoziyuan.me/so?filename={wd}&page=1;;ckrS5","登录":"https://zhaoziyuan.me/logiu.html;post;username=***&password=***","timeout":30,"changeable":0,"阿里token":""}},
+{"key":"csp_search_Panda_UP云搜","name":"🍒┃Up搜┃网盘","type":3,"api":"csp_UpYun","timeout":30,"changeable":0,"ext":""},
+{"key":"csp_search_Panda_易搜","name":"🐷┃易搜┃网盘","type":3,"api":"csp_YiSo","ext":""},
+  
+{"key":"drpy_哔哩","name":"🅱┃哔哩┃合集","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","playerType":1,"ext":"https://d.kstore.space/download/6296/js/B站.js"}
+],
+"parses":[
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"公众号：肥猫宝贝","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
+],
+"lives":[
+{"name":"live","type":0,"playerType":1,"url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
+"rules":[
+{"name":"量子","hosts":["vip.lz","v.cdnlz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"暴风","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"索尼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"蜗牛","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
+]
+}
