@@ -3,7 +3,6 @@
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
-{"key":"alist","name":"🍰┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://alist.xn--z7x900a.live/alist.json"},
 {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/南瓜.js"},
 {"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Panda","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"http://dt.xn--yety82d.love/玩偶哥哥.json"},
 
