@@ -1,0 +1,15 @@
+{
+    "vodPic": "https://jinenge.cn/alist/logo.png",
+    "drives": [
+        {
+            "name":"我的云盘|本地",
+            "server":"http://0.0.0.0:5244",
+            "search":true,
+            "hidden":false,
+            "login":{
+                "username":"admin",
+                "password":"admin"
+            }
+        }
+    ]
+}
