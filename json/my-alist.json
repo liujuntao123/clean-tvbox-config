@@ -2,11 +2,6 @@
     "vodPic": "https://jinenge.cn/alist/logo.png",
     "drives": [
         {
-            "name": "小雅",
-            "server": "http://alist.xiaoya.pro",
-            "search": false
-        },
-        {
             "name":"我的云盘",
             "server":"https://uowcoecc.cloud.sealos.io",
             "search":true,
@@ -15,6 +10,11 @@
                 "username":"admin",
                 "password":"VzqRSeC6"
             }
+        },
+        {
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro",
+            "search": false
         },
         {
             "name": "觸光",
