@@ -8,7 +8,7 @@
         },
         {
             "name":"我的云盘",
-            "server":"https://uowcoecc.cloud.sealos.io/dav/",
+            "server":"https://uowcoecc.cloud.sealos.io",
             "search":true,
             "hidden":false,
             "login":{
