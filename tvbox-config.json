@@ -2,7 +2,7 @@
 "spider":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "sites":[
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liujuntao123/clean-tvbox-config/main/json/my-alist.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/liujuntao123/clean-tvbox-config/main/json/my-alist.json"},
 {"key":"Alist","name":"我的|Alist","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liujuntao123/clean-tvbox-config/main/json/my-alist.json"},
 {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
 {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/南瓜.js"},
