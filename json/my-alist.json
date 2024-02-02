@@ -14,11 +14,12 @@
         {
             "name": "小雅",
             "server": "http://alist.xiaoya.pro",
-            "search": false
+            "search":true
         },
         {
             "name": "觸光",
-            "server": "https://pan.ichuguang.com"
+            "server": "https://pan.ichuguang.com",
+            "search":true
         },
         {
             "name": "进恩哥资源仓库",
@@ -26,7 +27,8 @@
         },
         {
             "name": "七米藍",
-            "server": "https://al.chirmyram.com"
+            "server": "https://al.chirmyram.com",
+            "search":true
         },
         {
             "name": "神族九帝",
@@ -38,7 +40,8 @@
         },
         {
             "name": "X影院",
-            "server": "https://alist.adone.eu.org"
+            "server": "https://alist.adone.eu.org",
+            "search":true
         },
         {
             "name": "瑾南",
@@ -54,11 +57,13 @@
         },
         {
             "name": "ECVE资源小站",
-            "server": "https://pan.ecve.cn/"
+            "server": "https://pan.ecve.cn/",
+            "search":true
         },
         {
             "name": "萤火虫资源站",
-            "server": "https://www.yhcres.top/"
+            "server": "https://www.yhcres.top/",
+            "search":true
         }
     ]
 }
