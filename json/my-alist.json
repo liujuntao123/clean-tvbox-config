@@ -3,7 +3,7 @@
     "drivers":[
         {
             "name":"七米蓝",
-            "server":"https://al.chirmyram.com/dav/"
+            "server":"https://al.chirmyram.com"
         }
     ]
 }
