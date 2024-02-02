@@ -12,58 +12,14 @@
             }
         },
         {
-            "name": "小雅",
-            "server": "http://alist.xiaoya.pro",
-            "search":true
+            "name":"我的云盘|本地",
+            "server":"http://0.0.0.0:5244",
+            "search":true,
+            "hidden":false,
+            "login":{
+                "username":"admin",
+                "password":"admin"
+            }
         },
-        {
-            "name": "觸光",
-            "server": "https://pan.ichuguang.com",
-            "search":true
-        },
-        {
-            "name": "进恩哥资源仓库",
-            "server": "https://jinenyy.vip"
-        },
-        {
-            "name": "七米藍",
-            "server": "https://al.chirmyram.com",
-            "search":true
-        },
-        {
-            "name": "神族九帝",
-            "server": "https://alist.shenzjd.com"
-        },
-        {
-            "name": "梓澪",
-            "server": "https://zi0.cc"
-        },
-        {
-            "name": "X影院",
-            "server": "https://alist.adone.eu.org",
-            "search":true
-        },
-        {
-            "name": "瑾南",
-            "server": "https://jn11.eu.org"
-        },
-        {
-            "name": "alist追番",
-            "server": "https://zhuifan.link"
-        },
-        {
-            "name": "南柯fff网盘",
-            "server": "https://alist.0031.store/"
-        },
-        {
-            "name": "ECVE资源小站",
-            "server": "https://pan.ecve.cn/",
-            "search":true
-        },
-        {
-            "name": "萤火虫资源站",
-            "server": "https://www.yhcres.top/",
-            "search":true
-        }
     ]
 }
