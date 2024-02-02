@@ -7,6 +7,16 @@
             "search": false
         },
         {
+            "name":"我的云盘",
+            "server":"https://uowcoecc.cloud.sealos.io/dav/",
+            "search":true,
+            "hidden":false,
+            "login":{
+                "username":"admin",
+                "password":"VzqRSeC6"
+            }
+        },
+        {
             "name": "觸光",
             "server": "https://pan.ichuguang.com"
         },
