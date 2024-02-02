@@ -10,6 +10,12 @@
                 "username":"admin",
                 "password":"VzqRSeC6"
             }
+        },
+        {
+            "name":"七米蓝",
+            "server":"https://al.chirmyram.com/dav/",
+            "search":true,
+            "hidden":false
         }
     ]
 }
