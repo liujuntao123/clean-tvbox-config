@@ -3,7 +3,7 @@
     "drivers":[
         {
             "name":"我的云盘",
-            "server":"https://uowcoecc.cloud.sealos.io:5244",
+            "server":"https://uowcoecc.cloud.sealos.io/dav/",
             "search":true,
             "hidden":false,
             "login":{
