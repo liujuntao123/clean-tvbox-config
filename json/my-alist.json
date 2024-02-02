@@ -1,0 +1,15 @@
+{
+    "vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+    "drivers":[
+        {
+            "name":"我的云盘",
+            "server":"https://uowcoecc.cloud.sealos.io:5244",
+            "search":true,
+            "hidden":false,
+            "login":{
+                "username":"admin",
+                "password":"VzqRSeC6"
+            }
+        }
+    ]
+}
