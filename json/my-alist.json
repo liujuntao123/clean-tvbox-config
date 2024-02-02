@@ -10,16 +10,6 @@
                 "username":"admin",
                 "password":"VzqRSeC6"
             }
-        },
-        {
-            "name":"我的云盘|本地",
-            "server":"http://0.0.0.0:5244",
-            "search":true,
-            "hidden":false,
-            "login":{
-                "username":"admin",
-                "password":"admin"
-            }
-        },
+        }
     ]
 }
