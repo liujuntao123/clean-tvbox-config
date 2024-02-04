@@ -2,7 +2,6 @@
 "spider":"http://like.xn--z7x900a.live:66/jar/PandaQ240202a.jar;md5;28BA128997B827025CBF297B1035C346",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "sites":[
-{"key":"Alist","name":"我的|Alist","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liujuntao123/clean-tvbox-config/main/json/my-alist.json"},
 {"key":"Alist_local","name":"我的|Alist本地","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liujuntao123/clean-tvbox-config/main/json/my-alist-local.json"},
 {"key":"drpy_js_豆瓣","name":"🐼┃公众号┃肥猫宝贝","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
 {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/南瓜.js"},
